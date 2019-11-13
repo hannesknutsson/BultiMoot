@@ -1,0 +1,2 @@
+#Exclude IntejjiJ project files (I like editing the README.md in IntelliJ so that i can preview it live)
+.idea/*
