@@ -1,0 +1,2 @@
+This is just a placeholder file to have the ISOFILES directory created in Git.
+This directory is where tha ISO files should be placed.
